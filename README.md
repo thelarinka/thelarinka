@@ -12,7 +12,7 @@
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/897927430763839539)
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCTt00lckorUwxR2gE7z9Cgg)
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/thelarinka)
-[![Discord Badge](https://img.shields.io/badge/Twitter%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.twitter.com/thelarinka/)
+[![Discord Badge](https://img.shields.io/badge/Twitter%20-171515.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://www.twitter.com/thelarinka/)
 
 <h1 align="center"> Tek Discord Hesabım <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
