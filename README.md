@@ -22,7 +22,13 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/908061037109063712?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/908061037109063712)
 
-<h3 align="left">🍒 GitHub Stats:</h3>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=thelarinka&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelarinka&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
+## ★ Github Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thelarinka&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thelarinka&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thelarinka&theme=github_dark"/>
+</p>
