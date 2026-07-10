@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/908061037109063712?theme=dark&animated=true&hideDiscrim=true&borderRadius=20"/>
+  <img src="https://lanyard.cnrad.dev/api/908061037109063712?theme=dark&animated=true&hideDiscrim=false&hideBadges=false&borderRadius=20"/>
 </p>
 
 <p align="center">
